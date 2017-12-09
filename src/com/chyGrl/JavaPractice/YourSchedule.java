@@ -8,6 +8,7 @@ public class YourSchedule {
 //
 //	 
 //	+------------------------------------------------------------+
+//	| 1 |                          English III |       Ms. Lapan |
 //	| 2 |                          Precalculus |     Mrs. Gideon |
 //	| 3 |                         Music Theory |       Mr. Davis |
 //	| 4 |                        Biotechnology |      Ms. Palmer |
